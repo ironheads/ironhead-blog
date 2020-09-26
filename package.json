@@ -12,5 +12,6 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs --dest dist"
-  }
+  },
+  "repository": "git@github.com:ironheads/ironhead-blog.git"
 }
