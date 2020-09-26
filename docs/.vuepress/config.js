@@ -1,4 +1,8 @@
 module.exports = {
+
+  //网站base
+  base: '/ironhead-blog/',
+
   // 网站 Title
   title: 'ironhead\'s blog',
 
