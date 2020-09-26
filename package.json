@@ -6,7 +6,7 @@
   "author": "ironhead",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.4",
+    "vuepress": "^1.6.0",
     "vuepress-theme-meteorlxy": "^1.9.0"
   },
   "scripts": {
