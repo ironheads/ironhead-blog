@@ -1,0 +1,16 @@
+{
+  "name": "ironhead-blog",
+  "version": "1.0.0",
+  "description": "ironhead's personal blog. The best is yet to come.",
+  "main": "index.js",
+  "author": "ironhead",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.4",
+    "vuepress-theme-meteorlxy": "^1.9.0"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs --dest dist"
+  }
+}
