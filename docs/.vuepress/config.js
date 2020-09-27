@@ -43,7 +43,7 @@ module.exports = {
 
       // 头像
       // 设置为外部链接
-      avatar: '/image/avatar.jpeg',
+      avatar: '/ironhead-blog/image/avatar.jpeg',
       // 或者放置在 .vuepress/public 文件夹，例如 .vuepress/public/img/avatar.jpg
       // avatar: '/img/avatar.jpg',
 
@@ -63,7 +63,7 @@ module.exports = {
       // header 的背景，可以使用图片，或者随机变化的图案（geopattern）
       background: {
         // 使用图片的 URL，如果设置了图片 URL，则不会生成随机变化的图案，下面的 useGeo 将失效
-        url: '/assets/img/bg.jpg',
+        url: '/ironhead/assets/img/bg.jpg',
 
         // 使用随机变化的图案，如果设置为 false，且没有设置图片 URL，将显示为空白背景
         useGeo: true,
@@ -82,7 +82,7 @@ module.exports = {
       poweredByTheme: true,
 
       // 添加自定义 footer (支持 HTML)
-      custom: 'Copyright 2018-2021 | Powered by <a href="https://github.com/meteorlxy" target="_blank">meteorlxy</a> | MIT License',
+      custom: 'Copyright 2018-2021 | ironhead | MIT License',
     },
 
     // 个人信息卡片相关设置 (可选)
