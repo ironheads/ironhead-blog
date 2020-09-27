@@ -43,8 +43,8 @@ module.exports = {
 
       // 头像
       // 设置为外部链接
-      avatar: 'https://www.meteorlxy.cn/assets/img/avatar.jpg',
-      // 或者放置在 .vuepress/public 文件夹，例如 .vuepress/publicimg/avatar.jpg
+      avatar: '/image/avatar.jpeg',
+      // 或者放置在 .vuepress/public 文件夹，例如 .vuepress/public/img/avatar.jpg
       // avatar: '/img/avatar.jpg',
 
       // 社交平台帐号信息
@@ -82,7 +82,7 @@ module.exports = {
       poweredByTheme: true,
 
       // 添加自定义 footer (支持 HTML)
-      custom: 'Copyright 2018-present <a href="https://github.com/meteorlxy" target="_blank">meteorlxy</a> | MIT License',
+      custom: 'Copyright 2018-2021 | Powered by <a href="https://github.com/meteorlxy" target="_blank">meteorlxy</a> | MIT License',
     },
 
     // 个人信息卡片相关设置 (可选)
